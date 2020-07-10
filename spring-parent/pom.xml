@@ -112,5 +112,6 @@
   
   <modules>
     <module>pring-test-payment</module>
+    <module>spring-test-common</module>
   </modules>
 </project>
